@@ -8,18 +8,18 @@ module.exports = {
 
   // basic site info (required)
   name: '工具箱',
-  domain: 'lizhimiao.com',
+  domain: 'hmmm',
   author: 'DionysusZ',
 
   // open graph metadata (optional)
   description: '数据库与工具箱',
-  socialImageTitle: 'lizhimiao的博客',
+  socialImageTitle: 'DionysusZ的博客',
   socialImageSubtitle: '👋',
 
   // social usernames (optional)
-  twitter: '_lizhimiao',
-  github: 'zhimiaoli',
-  linkedin: 'lizhimiao',
+  twitter: 'DionysusZ',
+  github: 'Schwannoma',
+  linkedin: 'DionysusZ',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
